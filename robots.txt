@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-wc1j4p.koi888win.online/sitemap.xml
